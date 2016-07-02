@@ -32,5 +32,7 @@ public class LinkedQueue {
 		return count;
 	}
 	
-	public static void 
+	public static void main(String[] args){
+		
+	}
 }
